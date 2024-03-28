@@ -1,0 +1,3 @@
+check path 
+open chaTGPT
+check if it needs emulator
